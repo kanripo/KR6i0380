@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說希有挍量功德經
+#+DATE: 2015-08-30 20:17:38.814844
+#+PROPERTY: JUAN 0
