@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:38.628937
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:24
 #+TITLE: 佛說希有挍量功德經
 #+PROPERTY: CBETA_ID T16n0690
 #+PROPERTY: ID KR6i0380
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 690
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0380_T_001-0783c> 
 #+PROPERTY: JUAN 1
 ¶
-No.690¶
-
- 《佛說希有挍量功德經》¶
+No. 690¶
+《佛說希有挍量功德經》¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
