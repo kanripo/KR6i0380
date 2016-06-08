@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:39.774262
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:24
 #+TITLE: 佛說希有挍量功德經
 #+PROPERTY: CBETA_ID T16n0690
 #+PROPERTY: ID KR6i0380
